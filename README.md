@@ -17,21 +17,17 @@ The dataset used for this project is sourced from Kaggle and includes various ar
 2. **Tokenization and Lemmatization**: Breaking down text into tokens and lemmatizing to reduce words to their base forms.
 3. **Vectorization**: Converting text data into a format suitable for LDA.
 4. **LDA Model Training**: Applying the LDA algorithm to discover latent topics.
-5. **Topic Visualization**: Visualizing the topics using tools like pyLDAvis for better interpretability.
 
 ### Dependencies:
 - Python 3.x
 - Pandas
 - Numpy
 - Gensim
-- spaCy
 - NLTK
-- Matplotlib
-- pyLDAvis
+
 
 ### Repository Structure:
-- `data/`: Contains the COVID-19 dataset.
-- `notebooks/`: Jupyter notebooks with step-by-step code and analysis.
+- `notebooks/`: Kaggle notebooks with step-by-step code and analysis.
 - `src/`: Python scripts for preprocessing, modeling, and visualization.
 - `README.md`: Project description and instructions.
 
@@ -45,10 +41,7 @@ The dataset used for this project is sourced from Kaggle and includes various ar
     ```bash
     pip install -r requirements.txt
     ```
-3. **Run the Jupyter notebooks** to see the step-by-step implementation and results:
-    ```bash
-    jupyter notebook notebooks/
-    ```
+   
 
 ## Results
 
@@ -60,8 +53,11 @@ Feel free to open issues or submit pull requests if you have any suggestions or 
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0 - see the `LICENSE` file for details.
 
+## Additional Resources
+
+For a detailed step-by-step guide, you can refer to the Kaggle Notebook:[Link to Kaggle Notebook](https://www.kaggle.com/code/gsaimadhav/lda-algorithm-example).
 ---
 
 
