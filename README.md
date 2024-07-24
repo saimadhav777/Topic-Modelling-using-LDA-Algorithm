@@ -1,5 +1,7 @@
 ---
 
+Link to my Kaggle Notebook : https://www.kaggle.com/code/gsaimadhav/lda-algorithm-example
+
 # Topic Modeling Using LDA Algorithm on COVID-19 Dataset
 
 This repository contains the code and analysis for performing topic modeling on a COVID-19 dataset from Kaggle using the Latent Dirichlet Allocation (LDA) algorithm. The goal of this project is to uncover hidden topics within the dataset, which can help in understanding the prevalent themes and trends related to the COVID-19 pandemic.
@@ -62,4 +64,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-By following this structure, you'll provide a clear and comprehensive overview of your project, making it easier for others to understand and use your work.
+
